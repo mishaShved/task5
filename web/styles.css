@@ -1,0 +1,18 @@
+body{
+    background-color: #e2e5ef        
+}
+
+form{
+    text-align: center;    
+}
+.centred{
+    padding-top: 300px;
+}
+.pagination{
+    text-align: center;
+    background-color: #cce5e0;    
+    position: fixed;
+    bottom: 0;
+    right: 600px;
+    overflow: hidden;    
+}
